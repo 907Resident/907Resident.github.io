@@ -30,7 +30,7 @@ twitter_username: MAjayi_907
 github_username:  907Resident
 
 # Build settings
-theme: minima
+remote_theme: jekyll-theme-hydeout
 plugins:
   - jekyll-feed
 
